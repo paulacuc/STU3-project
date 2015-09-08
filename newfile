@@ -23,46 +23,6 @@
                     <system value="http://hl7.no/fhir/rekvirenttype"/>
                     <caseSensitive value="true" />
                     <concept>
-                        <code value="1" />
-                        <display value="Pasienten selv" />
-                        <definition value="Pasienten selv" />            
-                    </concept>        
-                    <concept>
-                        <code value="41" />
-                        <display value="Somatisk spesialisthelsetjeneste" />
-                        <definition value="Somatisk spesialisthelsetjeneste" />            
-                    </concept>
-                    <concept>
-                        <code value="42" />
-                        <display value="Tverrfaglig spesialisert rusbehandling"/>
-                        <definition value="Tverrfaglig spesialisert rusbehandling"/>
-                    </concept>
-                    <concept>
-                        <code value="44"/>
-                        <display value="Psykisk helsevern"/>
-                        <definition value="inkludert DPS"/>
-                    </concept>
-                    <concept>
-                        <code value="10"/>
-                        <display value="Privatpraktiserende spesialister"/>
-                        <definition value="Leger og psykologer"/>
-                    </concept>
-                    <concept>
-                        <code value="28"/>
-                        <display value="Fastlege/primærlege/legevaktslege"/>
-                        <definition value="Primærhelsetjeneste"/>
-                    </concept>        
-                    <concept>
-                        <code value="88" />
-                        <display value="Andre kommunale tjenester" />
-                        <definition value="Barnehage, skolesektor, PPT Sosialtjeneste, barnevern" />            
-                    </concept>
-                    <concept>
-                        <code value="9"/>
-                        <display value="Andre tjenester"/>
-                        <definition value="Rehabiliteringsinstitusjoner, politi, fengsel, rettsvesen"/>
-                    </concept>
-                    <concept>
                         <code value="9"/>
                         <display value="Paula Cuc"/>
                         <definition value="Rehabiliteringsinstitusjoner, politi, fengsel, rettsvesen"/>
