@@ -31,4 +31,33 @@
             </ValueSet>            
         </resource>
     </entry>
+    <entry>
+        <resource>
+            <ValueSet xmlns="http://hl7.org/fhir">
+                <id value="paula" />
+                <url value="http://hl7.no/fhir/ValueSet/paula" />
+                <version value="0.1"/>
+                <name value="paula"/>
+                <useContext>
+                    <coding>
+                        <system value="urn:iso:std:iso:3166" />
+                        <code value="no"/>
+                    </coding>
+                </useContext>
+                <publisher value="HL7 Norge"/>
+                <description value="paula" />
+                <status value="draft" />
+                <date value="2015-06-01"/>
+                <define>
+                    <system value="http://hl7.no/fhir/paula"/>
+                    <caseSensitive value="true" />
+                    <concept>
+                        <code value="9"/>
+                        <display value="Paula Cuc"/>
+                        <definition value="paula"/>
+                    </concept>
+                </define>
+            </ValueSet>            
+        </resource>
+    </entry>
 </Bundle>
