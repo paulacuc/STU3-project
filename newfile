@@ -62,6 +62,11 @@
                         <display value="Andre tjenester"/>
                         <definition value="Rehabiliteringsinstitusjoner, politi, fengsel, rettsvesen"/>
                     </concept>
+                    <concept>
+                        <code value="9"/>
+                        <display value="Paula Cuc"/>
+                        <definition value="Rehabiliteringsinstitusjoner, politi, fengsel, rettsvesen"/>
+                    </concept>
                 </define>
             </ValueSet>            
         </resource>
