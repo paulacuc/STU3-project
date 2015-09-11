@@ -28,8 +28,8 @@
                     </concept>        
                     <concept>
                         <code value="99"/>
-                        <display value="Paula Cuc"/>
-                        <definition value="something"/>
+                        <display value="it works!"/>
+                        <definition value="it works!"/>
                     </concept>
                 </define>
             </ValueSet>            
