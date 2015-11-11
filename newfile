@@ -28,8 +28,8 @@
                     </concept>        
                     <concept>
                         <code value="99"/>
-                        <display value="it works!"/>
-                        <definition value="it works!"/>
+                        <display value="the header it works!"/>
+                        <definition value="the header it works!"/>
                     </concept>
                 </define>
             </ValueSet>            
