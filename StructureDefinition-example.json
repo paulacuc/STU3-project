@@ -27,7 +27,7 @@
   "status": "draft",
   "date": "2017-03-29T10:25:38-04:00",
   "publisher": "Optum",
-  "purpose": "Modify the cardinality of the original practitioner resource to better fit our current back end system.",
+  "purpose": "Modify the cardinality of the original practitioner resource to better fit our current back end system. and test if paula's work is ok",
   "keyword": [
     {
       "system": "http://fhir.hl7.org.nz/NamingSystem/application",
