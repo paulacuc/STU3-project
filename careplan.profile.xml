@@ -2847,7 +2847,7 @@ Member is optional because some participants may be known only by their role, pa
     <element>
       <path value="CarePlan.activity.detail.scheduled[x]"/>
       <short value="When activity is to occur"/>
-      <definition value="The period, timing or frequency upon which the described activity is to occur."/>
+      <definition value="The period, timing or frequency upon which the described activity is to occur. si cv cu paula"/>
       <requirements value="Allows prompting for activities and detection of missed planned activities."/>
       <min value="0"/>
       <max value="1"/>
