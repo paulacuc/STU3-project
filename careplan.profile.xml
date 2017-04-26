@@ -2188,7 +2188,7 @@ Member is optional because some participants may be known only by their role, pa
     <element>
       <path value="CarePlan.identifier"/>
       <short value="External Ids for this plan"/>
-      <definition value="This records identifiers associated with this care plan that are defined by business processes and/or used to refer to it when a direct URL reference to the resource itself is not appropriate (e.g. in CDA documents, or in written / printed documentation)."/>
+      <definition value="This records identifiers associated with this care plan that are defined by business processes and/or used to refer to it when a direct URL reference to the resource itself is not appropriate (e.g. in CDA documents, or in written / printed documentation). PAulaaaaaaaaaaaaaaaaaa"/>
       <requirements value="Need to allow connection to a wider workflow."/>
       <min value="0"/>
       <max value="*"/>
