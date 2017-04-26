@@ -248,7 +248,7 @@
         "id": "OptumPractitioner.role",
         "path": "OptumPractitioner.role",
         "short": "Roles/organizations the practitioner is associated with",
-        "definition": "The list of roles/organizations that the practitioner is associated with.",
+        "definition": "The list of roles/organizations that the practitioner is associated with paula.",
         "min": 0,
         "max": "*",
         "base": {
