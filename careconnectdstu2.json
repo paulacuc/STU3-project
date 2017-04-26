@@ -1,0 +1,30 @@
+{
+  "resourceType": "StructureDefinition",
+  "id": "GithubProblems-CareConnect-Condition-1structuredefinitionxml",
+  "meta": {
+    "versionId": "1",
+    "lastUpdated": "2016-08-03T17:17:04.312+03:00"
+  },
+  "url": "http://hl7.org.uk/CareConnect-Condition-1.structuredefinition.xml",
+  "version": "1.0",
+  "name": "CareConnect",
+  "status": "draft",
+  "description": "CareConnect Condition profile of Paula",
+  "fhirVersion": "1.0.2",
+  "kind": "resource",
+  "constrainedType": "Condition",
+  "abstract": false,
+  "base": "http://hl7.org/fhir/StructureDefinition/Condition",
+  "differential": {
+    "element": [
+      {
+        "path": "Condition",
+        "type": [
+          {
+            "code": "Condition"
+          }
+        ]
+      }
+    ]
+  }
+}
