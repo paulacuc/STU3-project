@@ -9,7 +9,7 @@
     <status value="draft"/>
     <publisher value="HL7 NL"/>
     <description
-        value="Zorgverlener. Functional requirements taken from Clinical Building Block (Zorginformatiebouwsteen) Zorgverlener v1.2 (release 2015). Names and addresses are also in compliance with HL7 V3 Basic Components."/>
+        value="Zorgverlener. Functional Paulaaaa requirements taken from Clinical Building Block (Zorginformatiebouwsteen) Zorgverlener v1.2 (release 2015). Names and addresses are also in compliance with HL7 V3 Basic Components."/>
     <copyright value="CC0"/>
     <fhirVersion value="3.0.0"/>
     <mapping>
