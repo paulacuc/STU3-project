@@ -1,0 +1,1 @@
+The news is that if you remove the file “v2-2.4-0006” from the it works. Or at least locally I managed to upload the entire zip. I am trying now on staging to reproduce it. The thing with that particular code system is that we try to determine the url key based on the existing url keys and append and int at the end which throws an exception
